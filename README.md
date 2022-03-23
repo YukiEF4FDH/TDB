@@ -6,6 +6,8 @@ To set up for each demo, both server-side and client-side need to be prepared.
 Pipeline of this system (ver. 202112)
 ![](https://gyazo.com/bb95ea7d5eac8086ce9bcc0e9d4f2cfd.png)
 
+You can find the slides of the early version [here](https://github.com/YukiEF4FDH/TDB/blob/main/XueyiChen_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A6%96%E8%A6%9A%E7%9A%84%E6%8E%A2%E7%B4%A2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_202112.pdf).
+
 ## Server-side Setup
 
 The server-side is developed with Flask.

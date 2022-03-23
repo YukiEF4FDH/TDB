@@ -3,6 +3,9 @@
 This is a demo version of our system, with classical server-client architecture.
 To set up for each demo, both server-side and client-side need to be prepared.
 
+Pipeline of this system (ver. 202112)
+![](https://gyazo.com/bb95ea7d5eac8086ce9bcc0e9d4f2cfd.png)
+
 ## Server-side Setup
 
 The server-side is developed with Flask.

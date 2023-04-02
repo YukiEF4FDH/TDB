@@ -3,10 +3,8 @@
 This is a demo version of our system, with classical server-client architecture.
 To set up for each demo, both server-side and client-side need to be prepared.
 
-Pipeline of this system (ver. 202112)
-![](https://gyazo.com/bb95ea7d5eac8086ce9bcc0e9d4f2cfd.png)
-
-You can find the slides of the early version [here](https://github.com/YukiEF4FDH/TDB/blob/main/XueyiChen_%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%A6%96%E8%A6%9A%E7%9A%84%E6%8E%A2%E7%B4%A2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_202112.pdf).
+Pipeline of this system:
+<img src="https://gyazo.com/32cddd1d70f0e3e3601b4b3a343604e9.png" style="zoom:67%;" />
 
 ## Server-side Setup
 
@@ -42,12 +40,6 @@ Open the cmd window under the folder `client`, and run the command to prepare th
 npm install
 ```
 
-You can fix the vulnerabilities according to the hints.
-
-```
-npm audit fix
-```
-
 Then, the preparation on the client-side is done. 
 Run the command to set up under the folder `client`.
 
@@ -55,10 +47,30 @@ Run the command to set up under the folder `client`.
 npm run serve
 ```
 
+**If** there is any error looks like this:
+
+```
+error in ./node_modules/monaco-editor/esm/vs/basic-languages/_.contribution.js 
+...
+_languageId
+...
+```
+
+, you should re-install the monaco-editor package and monaco-editor-webpack-plugin package with the `@` mark to assign the right versions, refer to [Version Matrix](https://www.npmjs.com/package/monaco-editor-webpack-plugin). For example,
+
+```
+npm install --save-dev monaco-editor@0.30.0
+npm install --save-dev monaco-editor-webpack-plugin@6.0.0
+```
+
+(You don't need to do this if there's no error after running serve).
+
 ## Check the Demo
 
-After the setup of both server and client, you can open http://localhost:8080/ in the browser to check the demo.
+After the setup of both server and client, you can access http://localhost:8080/ in the browser to check the demo.
 
 It would look like this.
 
-<img src="C:\Users\Yuki_\AppData\Roaming\Typora\typora-user-images\image-20211230162149051.png" alt="image-20211230162149051" style="zoom:80%;" />
+<img src="https://gyazo.com/597133f2cc9a064266c97f4c216d8319.png" alt="image-20211230162149051" style="zoom:80%;" />
+
+To check different demos, you can copy the content of different specification files in `/server` into `Specifications.json`.

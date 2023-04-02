@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "cellType": "text-cell",
+            "cellLayout": "single-column",
+            "cellData": "1.「今後マイナスの影響がある」が <ref>11.1%</ref>、10 月より <claim>2.5 ポイント</claim>増加<br>新型コロナウイルス感染症により自社の業績にどのような影響があるか尋ねたところ、『マイナスの影響がある』(「既にマイナスの影響がある」と「今後マイナスの影響がある」の合計)と見込む企業は<ref>83.7% </ref>となった。10 月より <claim>0.5 ポイント</claim>増加し、3 カ月ぶりに増加に転じた。特に「今後マイナスの影響がある」は、10 月 より <claim>2.5 ポイント</claim>増加 しており、感染拡大の第 3波の影響により、先行きを懸念する企業が増えたとみられる。他方、『プラスの影響がある』(「既にプラスの影響がある」と「今後プラスの影響がある」の合計)と見込む企業は<ref>46%</ref>となり、2 月以降微増傾向を示している。",
+            "chartType": null
+        },
+        {
+            "cellType": "chart-cell",
+            "cellLayout": "single-column",
+            "cellData": "sheet1",
+            "chartType": "stacked-bar-chart-normalized"
+        },
+        {
+            "cellType": "spreadsheet-cell",
+            "cellLayout": "single-column",
+            "cellData": "sheet1",
+            "chartType": null
+        }
+    ],
+    [
+        {
+            "cellType": "text-cell",
+            "cellLayout": "single-column",
+            "cellData": "2.『マイナスの影響』は 5 カ月ぶりに全業界で <claim>8 割</claim>超、『プラスの影響』は「小売」がトップ<br>『マイナスの影響がある』割合を業界別にみると、<claim>9業界中6業界</claim>（運輸・倉庫、金融、製造、不動産、小売、サービス）で10月を下回った。特に、『製造』『サービス』では3カ月連続で減少しており、マイナスの影響は僅かながらも緩和している。しかし、6月以降5カ月ぶりに全業界で<claim>8割</claim>を超えるなど、依然として大半の企業がマイナスの影響を認識しており、不透明な状況は続いている。他方、『プラスの影響がある』では、 『小売』が <ref>10.3%</ref> で最も高かった。次いで、 『金融』( <ref>9.1%</ref> ) 、『製造』( <ref>5.8%</ref> )が続く。<claim>9 業界中 6 業界</claim>( 小売、 金融、 製造、 サービス、 不動産、 運輸・倉庫) では 10 月を上回り 、飲食料品を取り扱う業種が上位に並んだ。しかし、 『卸売』『建設』のように 10 月を下回る業界もある など、 プラスの影響は一部の企業にとどまり、依然として大半の企業が業績にマイナスの影響を受けている。",
+            "chartType": null
+        },
+        {
+            "cellType": "chart-cell",
+            "cellLayout": "double-column",
+            "cellData": "sheet2A",
+            "chartType": "bar-chart"
+        },
+        {
+            "cellType": "chart-cell",
+            "cellLayout": "double-column",
+            "cellData": "sheet2B",
+            "chartType": "bar-chart"
+        },
+        {
+            "cellType": "spreadsheet-cell",
+            "cellLayout": "single-column",
+            "cellData": "sheet2A",
+            "chartType": null
+        }
+    ],
+    [
+        {
+            "cellType": "text-cell",
+            "cellLayout": "single-column",
+            "cellData": "3 「新しい生活様式」がすでに定着している企業は <ref>10.0%</ref><br>「新しい生活様式」に対応した企業活動が社会全体として定着するのはいつ頃と考えているかを尋ねたところ、『2021 年中の定着を見込む』企業は、<ref>36.2%</ref>となり、<claim>3 社に 1 社</claim>が2021 年中に「新しい生活様式」に対応した企業活動が定着すると見込んでいた。他方、『2020 年中の定着を見込む』企業は、<ref>17.5%</ref>となった。そのうち、<ref>10.0%</ref>の企業が「すでに定着している」と考えていた。とりわけ「電気通信」や「娯楽サービス」では、3割超の企業で既に定着しているとしており、サービス業を中心にその割合が高い。他方、「新しい生活様式に対応した企業活動は定着しない」とみている企業は<ref>11.9%</ref>となった。",
+            "chartType": null
+        },
+        {
+            "cellType": "spreadsheet-cell",
+            "cellLayout": "single-column",
+            "cellData": "sheet3",
+            "chartType": null
+        }
+    ]
+]

@@ -1,0 +1,5 @@
+2.『マイナスの影響』は5カ月ぶりに全業界で<claim claim_id=\'claim-2-1\'>8割</claim>超、『プラスの影響』は「小売」が<claim claim_id=\'claim-2-2\'>トップ</claim>
+
+『マイナスの影響がある』割合を業界別にみると、9業界中6業界（運輸・倉庫、金融、製造、不動産、小売、サービス）で10月を<claim claim_id=\'claim-2-3\'>下回</claim>った。特に、『製造』『サービス』では3カ月連続で<claim claim_id=\'claim-2-4\'>減少</claim>しており、マイナスの影響は僅かながらも緩和している。しかし、6月以降5カ月ぶりに全業界で<claim claim_id=\'claim-2-5\'>8割</claim>を超えるなど、依然として<claim claim_id=\'claim-2-6\'>大半</claim>の企業がマイナスの影響を認識しており、不透明な状況は続いている。
+
+他方、『プラスの影響がある』では、『小売』が<ref ref_id=\'ref-2-1\'>10.3%</ref>で<claim claim_id=\'claim-2-7\'>最も高</claim>かった。<claim claim_id=\'claim-2-8\'>次いで</claim>、『金融』(<ref ref_id=\'ref-2-2\'>9.1%</ref>)、『製造』(<ref ref_id=\'ref-2-3\'>5.8%</ref>)が続く。9業界中6業界(小売、金融、製造、サービス、不動産、運輸・倉庫)では10月を<claim claim_id=\'claim-2-9\'>上回</claim>り、飲食料品を取り扱う業種が上位に並んだ。しかし、『卸売』『建設』のように10月を<claim claim_id=\'claim-2-10\'>下回</claim>る業界もあるなど、プラスの影響は一部の企業にとどまり、依然として<claim claim_id=\'claim-2-11\'>大半</claim>の企業が業績にマイナスの影響を受けている。

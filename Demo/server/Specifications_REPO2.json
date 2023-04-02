@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "cellType": "text-cell",
+            "cellLayout": "single-column",
+            "cellData": "もうすぐ<ref>2</ref>023年の幕が開ける。来年は「卯年」にあたり、うさぎは古くから縁起が良いとして多くの場面で登場する動物だ。元気に飛び跳ねる姿からは飛躍が想像され、他にも繁殖能力の高さから子孫の繁栄、ピンと立った耳から情報のキャッチ、さらに月影がうさぎに見える風習から「月＝ツキ」を呼ぶ…など、挙げれば枚挙にいとまがない。また、1300年以上も前に編纂された日本最古の書物『古事記』の一節「因幡の白兎」も有名で、縁結びの動物として扱われている。",
+            "chartType": null
+        },
+        {
+            "cellType": "text-cell",
+            "cellLayout": "single-column",
+            "cellData": "帝国データ<ref>バ</ref>ンクのデータベースでは、卯年に創業した企業は全国11万6434社が確認された。最も多いのは48周年（1975年/昭和50年創業）で2万2359社となり、人間でいう「還暦」で60周年（1963年/昭和38年）を迎えるのは1万6062社となった。また、業歴100年を超える老舗企業は1834社で全体の1.6％を占め、120周年の「大還暦」は415社が判明した。ピョンピョンと跳ねるうさぎのような成長が期待される「卯年企業」には、どのような特徴があるのだろうか。",
+            "chartType": null
+        }, 
+        {
+            "cellType": "chart-cell",
+            "cellLayout": "single-column",
+            "cellData": "Table1",
+            "chartType": "horizontal-bar-chart"
+        }
+    ],
+    [
+        {
+            "cellType": "text-cell",
+            "cellLayout": "single-column",
+            "cellData": "卯年生まれ<ref>企業</ref>＜売上高別＞9割以上が「10億円未満」、「1000億円以上」は全体のわずか0.1％「卯年」企業を売上高別にみると、56.0％が「1億円未満」となった。次いで「1～10億円未満」が35.8％と多く、10億円以上の企業は8.2％となった。わずか0.1％となった「1000億円以上」の140社の内訳をみると、関西電力（72周年）などエネルギー系企業が数多く並ぶ。また、東京海上日動火災保険（144周年）など保険業も多く、髙島屋（192周年）など知名度の高い小売業もみられる。",
+            "chartType": null
+        },
+        {
+            "cellType": "spreadsheet-cell",
+            "cellLayout": "double-column",
+            "cellData": "Table2A",
+            "chartType": null
+        },
+        {
+            "cellType": "chart-cell",
+            "cellLayout": "double-column",
+            "cellData": "Table2A",
+            "chartType": "pie-chart"
+        }
+    ],
+    [
+        {
+            "cellType": "chart-cell",
+            "cellLayout": "double-column",
+            "cellData": "Table3",
+            "chartType": "pie-chart"
+        },
+        {
+            "cellType": "text-cell",
+            "cellLayout": "double-column",
+            "cellData": "「うさぎ」にちなんだ<ref>AAA</ref>名を冠する企業243社が判明漢字やひらがなのほか、Rabbit/Bunny/Lapinなどさまざ社名に「うさぎ」に関連する社名を冠する企業は243社確認された。最も多いのは漢字表記の「兎/卯」が99社で、全体の40.7％と最多となった。なかでも代表的なのは、外食チェーンとして全国に400店舗以上を構えるなか卯（東京都港区）。「卯」の文字が観音開きを連想させること、うさぎのように飛躍し繁盛できるようにという縁起を担いだ由来がある。また、看板商品「うどんすき」を軸に関西圏に展開する美々卯（大阪市中央区）は創業から100年近くとなる。次いで「ラビット」など外国語を取り入れているのは82社（構成比33.7％）で、車買取店「ラビット」を展開するラビット・カーネットワーク（東京都千代田区）が代表的。他にも、子うさぎを表す英語の「Bunny」、フランス語の「Lapin」などを冠する企業も確認された。ひらがな・カタカナ表記の「うさぎ/ウサギ」では62社（同25.5％）を数え、東海・関東地方で薬局や介護関連事業などを手掛けているうさぎ薬局（静岡県伊東市）などがある。",
+            "chartType": null
+        },
+        {
+            "cellType": "spreadsheet-cell",
+            "cellLayout": "single-column",
+            "cellData": "Table3",
+            "chartType": null
+        }
+    ]
+]
